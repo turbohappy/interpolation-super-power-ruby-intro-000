@@ -2,7 +2,6 @@
 
 def display_rainbow(colors)
   blah = colors.map { |color| exp_color(color) }
-  puts blah
   puts blah.join(", ")
 end
 

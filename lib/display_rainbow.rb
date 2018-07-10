@@ -13,4 +13,4 @@ def exp_color(color)
   color.slice(0,1).upcase+': '+color
 end
 #
-display_rainbow ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+# display_rainbow ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']

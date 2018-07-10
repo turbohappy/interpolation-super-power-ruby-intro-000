@@ -6,5 +6,5 @@ def display_rainbow(colors)
 end
 
 def exp_color(color)
-  color[0] + color
+  color[0].to_upper + color
 end
